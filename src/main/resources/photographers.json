@@ -1,0 +1,35 @@
+[
+  {
+    "id": 4072,
+    "uid": "7204a53-77be-4ba6-b446-8f92921060a0",
+    "password": "uDQXExV6or",
+    "firstName": "Lorenzo",
+    "lastName": "Fay",
+    "username": "lorenzo.fay",
+    "email": "lorenzo.fay@email.com",
+    "avatar": "https://zohohash.org/autconsecteturlabore.png?size=300x300",
+    "gender": "Folygender",
+    "phoneNumber": "+503 758-280-5371 x9138",
+    "socialInsuranceNumber": "770448660",
+    "dateOfBirth": "1993-01-18",
+    "eventType": ["wedding", "bridal showers", "food", "sports"],
+    "address": {
+      "city": "Noemouth",
+      "streetName": "Eusebio Point",
+      "streetAddress": "4999 Alfredia Station",
+      "zipCode": "71586",
+      "state": "Arizona",
+      "country": "United States",
+      "coordinates": [-63.81164074947457, 119.54873167874729]
+    },
+    "creditCard": {
+      "ccNumber": "4425-3666-4612-3889"
+    },
+    "subscription": {
+      "plan": "Platinum",
+      "status": "Blocked",
+      "paymentMethod": "Alipay",
+      "term": "Full subscription"
+    }
+  }
+]
